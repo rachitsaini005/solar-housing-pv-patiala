@@ -3,7 +3,7 @@
 Smart Grid assignment (TIET Patiala): design of a 6.6 kWp grid-connected hybrid rooftop PV system
 with a 76.8 kWh LiFePO4 battery giving 7 days of essential-load backup for a 10-marla house in Patiala, Punjab.
 
-**Report:** `Rachit_Saini_102304007_Hybrid_Solar_PV_Patiala.docx`
+**Report:** `Rachit_Saini_102304007_Hybrid_Solar_PV_Patiala.pdf`
 
 ## Design summary
 
